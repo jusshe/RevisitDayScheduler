@@ -9,7 +9,10 @@ admissions staff. It's tailored exclusively to revisit days
 in which accepted students sit in on two classes during one 
 schedule block. Reads from an exported google form of student 
 preferences and creates a directory with a final schedule & 
-performance summary. I tried originally to model the problem
+performance summary. 
+
+Past Versions: This is techinally "RevisitDayScheduler3.0" :/
+I tried originally to model the problem
 as a maxflow problem, but I believe (though haven't proven)
 that two of the characteristics I would need to represent in 
 the digraph are mutually exclusive.
